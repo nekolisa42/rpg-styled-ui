@@ -45,6 +45,6 @@ If you need fast updates, mod compatibility, please consider using the fork [pat
 - Converting png/jpg to webp
 
 # How to install
-Copy link ```https://raw.githubusercontent.com/Xbozon/rpg-styled-ui/main/module.json``` to
+Copy link ```https://raw.githubusercontent.com/nekolisa42/rpg-styled-ui/main/module.json``` to
 
 ![alt text](install.jpg "Title")
