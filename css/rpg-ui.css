@@ -265,7 +265,6 @@ body.compact-mode #logo {
 
 .chat-message .message-content {
     color: var(--main-text-light-color) !important; /*8e8073*/
-    text-shadow: var(--text-shadow);
 }
 
 .chat-message .message-content h3.nue {
