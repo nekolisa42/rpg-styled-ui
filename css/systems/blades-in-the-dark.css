@@ -316,8 +316,8 @@
 		 a.entity-link,
 		 a.content-link,
 		 a.inline-roll {
-			color:#98968a;
-			background: #40130c;
+			color:#000000;
+			background: #c7c7c6cf;
 			padding: 0px 3px;
 			border: 2px solid #671911;
 			border-radius: 6px;
