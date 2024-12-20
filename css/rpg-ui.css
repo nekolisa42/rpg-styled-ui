@@ -255,7 +255,7 @@ body.compact-mode #logo {
 }
 #chat-log .message .message-header .flavor-text,
 #chat-log .message .message-header .whisper-to {
-    color: var(--main-text-light-color) !important; /*8e8073*/
+    color: #d1c57a !important; /*8e8073*/
     text-shadow: var(--text-shadow);
 }
 #chat-log .message .message-header .message-sender img {
