@@ -510,7 +510,6 @@
     background: var(--color-cool-5-50);
     border: 1px solid var(--color-cool-5)!important;
     box-shadow: var(--glassy)!important;
-    color: var(--pfui-main-color);
     border-radius: 10px;
 }
 .dice-result .dice-tooltip {
