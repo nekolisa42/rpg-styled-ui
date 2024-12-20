@@ -209,7 +209,6 @@ body.compact-mode #logo {
 
 #chat-log .message {
     position: relative;
-    color: #837360;
     border: none !important;
     background: none !important;
     padding: 10px 20px 15px 20px;
