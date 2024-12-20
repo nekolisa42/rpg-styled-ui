@@ -262,6 +262,10 @@ body.compact-mode #logo {
     box-shadow: var(--box-shadow);
 }
 
+.chat-message .message-content {
+
+}
+
 .chat-message .message-content h3.nue {
     padding: 8px 0;
     border-top: 2px groove var(--color-underline-header);
