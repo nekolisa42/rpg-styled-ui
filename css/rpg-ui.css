@@ -280,7 +280,7 @@ body.compact-mode #logo {
 
 .chat-message .table-draw .table-description {
     border-top: 1px solid var(--monks-border-color);
-    color: var(--main-text-light-color)
+    color: #ffffff;
 }
 
 .chat-message .table-draw .table-results .table-result img.result-image {
